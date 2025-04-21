@@ -1,9 +1,9 @@
 📊 Project Summary – EDA Report
 
 📌 Dataset Overview
-The dataset appears to be a retail transaction dataset, containing fields such as InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, and Country.
+  The dataset appears to be a retail transaction dataset, containing fields such as InvoiceNo, StockCode, Description,   Quantity, InvoiceDate, UnitPrice, CustomerID, and Country.
 
-Primary focus is on customer transactions across different regions (e.g., United Kingdom, Iceland, Finland, Italy).
+  Primary focus is on customer transactions across different regions (e.g., United Kingdom, Iceland, Finland, Italy).
 
 🧼 Data Cleaning
 Missing Values:
