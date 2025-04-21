@@ -1,4 +1,5 @@
 📊 Project Summary – EDA Report
+
 📌 Dataset Overview
 The dataset appears to be a retail transaction dataset, containing fields such as InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, and Country.
 
@@ -30,9 +31,6 @@ Monthly Frequency:
 
 Visualization of transaction frequency across different months from Dec 2010 to Dec 2011.
 
-Correlation Matrix:
-
-Heatmap used to display correlations between numerical columns like quantity, unit price, etc.
 
 📌 Insights
 The United Kingdom is the dominant source of transactions.
