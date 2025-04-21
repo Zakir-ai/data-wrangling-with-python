@@ -29,6 +29,6 @@ Source: [Kaggle](https://www.kaggle.com/)
 ## 💡 Key Learnings
 - Practical experience with data cleaning using Pandas
 - Dealing with real-world data issues
-- Understanding the importance of clean data in data science workflows.
+- Understanding the importance of clean data in Data Analyst workflows.
 ---
 
