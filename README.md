@@ -30,5 +30,8 @@ Source: [Kaggle](https://www.kaggle.com/)
 - Practical experience with data cleaning using Pandas
 - Dealing with real-world data issues
 - Understanding the importance of clean data in Data Analyst workflows.
+
+
+📊 Behind every great insight is a clean dataset — it’s where meaningful analysis truly begins!
 ---
 
